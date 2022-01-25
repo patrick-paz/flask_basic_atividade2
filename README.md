@@ -14,3 +14,10 @@ source venv/bin/activate
 
 pip3 install -r ./requirements.txt
 ```
+
+Próximo passo é abrir o pycharm e:
+- File -> Open
+- selecionar a pasta onde o projeto foi clonado
+- na primeira vez que importar aparecerá na parte superior a mensagem que não encontrou o ambiente de desenvolvimento.
+- clicar na sugestão que aparecer, por exemplo: /home/user/flask_basic/venv/bin/python
+
